@@ -3,5 +3,5 @@ ipywidgets
 py3Dmol
 numpy
 debtcollector
-jupyterlab_myst
+jupyterlab_myst==2.3.2
 dftd3
